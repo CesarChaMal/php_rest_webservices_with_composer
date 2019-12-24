@@ -1,0 +1,11 @@
+composer init
+
+composer require marcj/php-rest-service
+or
+manually copy
+    "require": {
+        "marcj/php-rest-service": "*"
+    }
+
+wget http://getcomposer.org/composer.phar
+php composer.phar install

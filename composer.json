@@ -1,0 +1,13 @@
+{
+    "name": "cesar/php_rest_webservices_with_composer",
+    "description": "rest api",
+    "authors": [
+        {
+            "name": "Cesar Francisco Chavez Maldonado",
+            "email": "cesarchamal@gmail.com"
+        }
+    ],
+    "require": {
+        "marcj/php-rest-service": "*"
+    }
+}
